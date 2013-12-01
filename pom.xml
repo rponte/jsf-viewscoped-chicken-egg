@@ -85,6 +85,7 @@
                         <additionalProjectFacets>
                             <jst.java>${props.compile.jdk.source}</jst.java>
                             <jst.web>3.0</jst.web>
+                            <jst.jsf>2.1</jst.jsf>
                         </additionalProjectFacets>
                             <!-- Set Eclipse project to UTF-8 -->
                             <additionalConfig>
