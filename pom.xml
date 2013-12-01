@@ -56,7 +56,7 @@
 	</dependencies>
 
 	<build>
-        <finalName>jsf2-viewscope</finalName>
+        <finalName>jsf2-viewscoped-chicken-egg</finalName>
         <plugins>
 			<!-- Set to compile using JDK 7 -->
             <plugin>
