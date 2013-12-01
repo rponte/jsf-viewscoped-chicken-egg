@@ -57,7 +57,7 @@
 	<build>
         <finalName>jsf2-viewscope</finalName>
         <plugins>
-                <!-- Set to compile using JDK 7 -->
+			<!-- Set to compile using JDK 7 -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -97,6 +97,13 @@
                         </additionalConfig>
                     </configuration>
                 </plugin>
+                <plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-war-plugin</artifactId>
+					<configuration>
+						<version>3.0</version>
+					</configuration>
+				</plugin>
         </plugins>
     </build>
 </project>
