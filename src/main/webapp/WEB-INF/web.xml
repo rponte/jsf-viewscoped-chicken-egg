@@ -20,7 +20,7 @@
     <!-- Or you can just disable PARTIAL_STATE_SAVING in some specific pages -->
     <context-param>
         <param-name>javax.faces.FULL_STATE_SAVING_VIEW_IDS</param-name>
-        <param-value>/component-binding.xhtml</param-value>
+        <param-value>/fixed-taghandler.xhtml,/fixed-component-binding.xhtml</param-value>
     </context-param>
 
 	<!-- JSF mapping -->
