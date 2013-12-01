@@ -13,10 +13,10 @@
 		<!-- com.sun.faces>2.2.4</com.sun.faces -->
 		<!-- com.sun.faces>2.1.18</com.sun.faces -->
 		<com.sun.faces>2.1.7</com.sun.faces>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <props.compile.jdk.source>1.7</props.compile.jdk.source>
-        <props.compile.jdk.target>1.7</props.compile.jdk.target>
-    </properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<props.compile.jdk.source>1.7</props.compile.jdk.source>
+		<props.compile.jdk.target>1.7</props.compile.jdk.target>
+	</properties>
 
 	<dependencies>
 
