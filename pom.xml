@@ -10,6 +10,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
+		<!-- com.sun.faces>2.1.18</com.sun.faces -->
 		<com.sun.faces>2.1.7</com.sun.faces>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <props.compile.jdk.source>1.7</props.compile.jdk.source>
